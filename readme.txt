@@ -4,5 +4,6 @@ git many log your all operation
 git has many command
 git is powerfull
 git is cool
-git merge no ff 模式
+git merge no ff ģʽ
+zhangsan update
 f1 update 
