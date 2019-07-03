@@ -5,3 +5,4 @@ git has many command
 git is powerfull
 git is cool
 git merge no ff 模式
+f1 update 
